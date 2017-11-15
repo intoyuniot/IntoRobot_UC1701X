@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+ IntoRobot_UC1701X   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+set_uc1701xCursor  KEYWORD2
+clearScreen  KEYWORD2
+fullScreen  KEYWORD2
+uc1701x_command  KEYWORD2
+uc1701x_data  KEYWORD2
+clearDisplay  KEYWORD2
+display  KEYWORD2
+coarseContrast  KEYWORD2
+fineTuneContrast  KEYWORD2
+drawPixel  KEYWORD2
+drawFastVLine  KEYWORD2
+drawFastHLine  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

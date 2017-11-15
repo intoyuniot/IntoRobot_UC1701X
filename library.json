@@ -1,0 +1,21 @@
+{
+    "name": "IntoRobot_UC1701X",
+    "version": "1.0.0",
+    "keywords": "LCD,UC1701X",
+    "description": "UC1701x驱动LCD库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/IntoRobot_UC1701X.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "dependencies":
+    {
+        "name": "Adafruit_GFX",
+        "frameworks": "arduino"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
